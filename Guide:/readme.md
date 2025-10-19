@@ -1,1 +1,2 @@
 - https://www.directstoves.com/our-blog/guide-to-solid-fuels/
+- https://naturalresources.extension.iastate.edu/forestry/forest_products/fuel.html
