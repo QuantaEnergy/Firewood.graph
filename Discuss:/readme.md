@@ -1,0 +1,1 @@
+- https://www.reddit.com/r/firewood/comments/19akq9j/what_is_the_price_for_a_full_cord_of_firewood_in/
