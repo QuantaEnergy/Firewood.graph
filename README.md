@@ -1,5 +1,6 @@
 # Firewood.graph
 sch:
+- https://www.google.com/search?q=wood+energy+density
 - https://www.google.com/search?q=firewood+energy+content
 - https://www.google.com/search?q=firewood+energy+content+kwh+kg
 - https://www.google.com/search?q=cord+of+wood
@@ -10,3 +11,4 @@ sch:
 
 # Guide:
 https://naturalresources.extension.iastate.edu/forestry/forest_products/fuel.html
+https://wood-energy.extension.org/energy-basics/
